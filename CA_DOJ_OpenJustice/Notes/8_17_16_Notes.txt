@@ -1,10 +1,10 @@
+8/17 Notes
+
 Violent crime rate - (target variable) -> Bureau of Justice Statistics >> Y
 Unemployment rate -> Census Bureau
 Poverty rate -> Census Bureau
 police per capita ->
 Economic growth – GDP -> Bureau of Economic Analysis
-
-Bureau of Labor Statistics
 
 Crime Rate - UCR (Unified Crime Report) >> FBI Data
 
@@ -20,5 +20,3 @@ Juvenile
 How many officers
 Officers Time
 Officers per county
-
-
